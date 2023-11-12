@@ -1,8 +1,8 @@
 {
   "name": "@umanda/zod-msg-bus",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
-  "private" : false,
+  "private": false,
   "main": "dist/index.cjs.js",
   "module": "dist/index.es.js",
   "types": "dist/index.d.ts",
