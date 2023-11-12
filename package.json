@@ -1,0 +1,16 @@
+{
+  "name": "zod-msg-bus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsup src/index.ts --format cjs,esm --dts"
+  },
+  "author": "Umanda Jayobandara",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.9.0",
+    "tsup": "^7.2.0",
+    "typescript": "^5.2.2"
+  }
+}
